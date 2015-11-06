@@ -1,2 +1,1 @@
-# G-CD_Proj
-Project repo
+# This is a description of the R file.
